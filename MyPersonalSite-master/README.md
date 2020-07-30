@@ -1,2 +1,2 @@
 # Meu primeiro site pessoal 
-Feito na imersão css da Alura Cursos Online
+Feito na imersão CSS da Alura Cursos Online
